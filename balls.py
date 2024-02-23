@@ -8,6 +8,8 @@ print(ball_1.ballcolour)
 ball_1.ballcolour2 = "BLUE"
 print(ball_1.ballcolour2)
 
+
+# fat bald
 # ball_list = [0 for i in range(10000)]
 # for i in range(10000):
 #     ball_list[i] = Ball("RED + fat", "GREENnd8*&$£^£)")
